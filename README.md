@@ -12,6 +12,9 @@ Manually install those from AppStore or web
 ### [AliasManager](https://aliasmanager.co/)
 Allow to easily create and manage cli aliases, path, etc.
 
+### [FantastiCal](https://flexibits.com/fantastical)
+Improved calendar app
+
 ### [Dash](https://kapeli.com/dash)
 API and Documentation manager
 
@@ -25,4 +28,6 @@ Live edit for CSS/Less/Scss in Chrome web tools
 Better window positionning (Like, you know, a good ol' Windows)
 
 ### [Slack](https://slack.com/)
-Cool chat app for teamwork
+Chat app for teamwork
+
+### XCode
