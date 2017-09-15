@@ -1,0 +1,35 @@
+" Pathogen (plugins)
+call pathogen#infect()
+
+set nocompatible
+
+" -- Affichage
+set title
+set number
+set wrap
+set scrolloff=3
+
+" -- Recherche
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+
+" -- Beep
+set visualbell
+set noerrorbells
+
+" Active le comportement habituel de la touche backspace
+set backspace=indent,eol,start
+
+" cache les fichiers lors de l'ouverture d'autres fichiers
+set hidden
+
+" Coloration syntaxique
+syntax enable
+filetype on
+filetype plugin on
+filetype indent on
+
+" Plugins
+" autocmd vimenter * NERDTree
