@@ -1,5 +1,4 @@
-# Setup OSX
-Here's all what I need to get a proper OSX setup.
+# dotfiles macOS
 
 ## Firsts things first
 * Install Xcode CLI with ```xcode-select --install```
