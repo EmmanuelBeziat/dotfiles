@@ -1,0 +1,13 @@
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+www/wp-content/themes/liebig/node_modules
+node_modules
+config.codekit
+mysql.log
+accor
+
+node_modules/
+/node_modules
+/node_modules/
